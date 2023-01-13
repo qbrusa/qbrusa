@@ -4,11 +4,10 @@
 
 <p align="left"> <a href="https://twitter.com/QuentinBrusa" target="blank"><img src="https://img.shields.io/twitter/follow/QuentinBrusa?logo=twitter&style=for-the-badge" alt="saurra3h" /></a> </p>
 
-- 🌱 I’m currently a Security Engineer and a Blue Teamer
-
+- 🌱 I’m currently an Security Engineer and a Blue Teamer
 
 - 🔭 My 2023 Goal is to share my projects to the security community
 
-- ⚡I love to learn new things
+- ⚡ I love to learn new things
 
         
